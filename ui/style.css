@@ -85,15 +85,17 @@ body {
 }
 
 .option h2 {
+  color: #ff5ac4;
   margin-top: 50px;
   text-align: center;
-  font-size: 2vmax;
+  font-size: 4vmax;
+  font-family: 'Bilbo', cursive;
 }
 
 .danh-sach {
   height: 75%;
   width: 95%;
-  margin-top: 10%;
+  margin-top: 5%;
   margin-left: 2.5%;
   display: flex;
   flex-wrap: wrap;
@@ -139,4 +141,5 @@ body {
   transform: rotate(-26deg);
   border-radius: 5px;
   border-style: dotted;
+  transition-duration: 0.5s;
 }
