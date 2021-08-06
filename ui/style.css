@@ -18,6 +18,9 @@ body {
   width: 100%;
   height: 100%;
 }
+body {
+  background: linear-gradient(21deg, #ff5ac48c, #56a3ea66);
+}
 
 .border {
   box-sizing: border-box;
